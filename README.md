@@ -34,7 +34,7 @@ All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 ## Installation
 
 ```bash
-git clone https://github.com/aysuarex/AirBnB_clone.git
+git clone https://github.com/Fola-flex/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
