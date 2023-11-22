@@ -1,0 +1,63 @@
+.amenities,
+.reviews {
+	margin-top: 40px;
+}
+
+.amenities_title,
+.reviews_title {
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 1rem
+}
+
+.amenities_title h2,
+.reviews_title h2 {
+	font-size: 16px;
+}
+
+.amenities_list ul,
+.reviews_list ul {
+	list-style: none;
+	padding: 0;
+}
+
+.amenities_list li {
+	display: flex;
+	gap: 2rem;
+	align-items: center;
+}
+
+.reviews_list li {
+	margin-top: 1rem;
+}
+
+.icon_tv,
+.icon_wifi,
+.icon_pets {
+	height: 32px;
+	width: 32px;
+}
+
+.icon_tv {
+	background: url("images/icon_tv.png") no-repeat center;
+	background-size: 30px 30px;
+}
+
+.icon_wifi {
+        background: url("images/icon_wifi.png") no-repeat center;
+	background-size: 30px 30px;
+}
+
+.icon_pets {
+        background: url("images/icon_pets.png") no-repeat center;
+	background-size: 30px 30px;
+}
+
+.reviews_list h3 {
+	font-size: 14px;
+	margin: 0;
+}
+
+.reviews_list p {
+	font-size: 12px;
+	margin: 0;
+}
